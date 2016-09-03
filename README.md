@@ -1,5 +1,7 @@
 ## 简单易用的日期选择器
 
+[DEMO](http://xiaoxiao.work/Xdatepicker/)
+
 类似的日期选择插件实现难点如下
 
 1. 在日历面板如何展示日期
