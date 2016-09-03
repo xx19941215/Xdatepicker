@@ -1,0 +1,54 @@
+
+.date-picker {
+  width: 240px;
+}
+.header {
+  height: 30px;
+  background: #CA2B2B;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+}
+.caret-left {
+  display: inline-block;
+  border:7px solid #fff;
+  border-left:none;
+  border-top-color:transparent;
+  border-bottom-color:transparent;
+  position: absolute;
+  left: 5px;
+  top: 6px;
+  cursor: pointer;
+}
+.caret-right {
+  display: inline-block;
+  border:7px solid #fff;
+  border-right:none;
+  border-top-color:transparent;
+  border-bottom-color:transparent;
+  position: absolute;
+  right: 5px;
+  top: 6px;
+  cursor: pointer;
+}
+.panel {
+  width: 100%;
+  border: 1px solid #CCCCCC;
+  font-size:14px;
+
+}
+.panel td {
+  text-align: center;
+  line-height: 150%;
+}
+.prev, .next {
+  color: #EEEEEE;
+}
+.cur:hover {
+  background: #CCCCCC;
+  cursor: pointer;
+}
+.now {
+  color:#f00;
+}
