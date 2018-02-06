@@ -1,6 +1,6 @@
 ## 简单易用的日期选择器
 
-[DEMO](http://xiaoxiao.work/Xdatepicker/)
+[DEMO](https://htmlpreview.github.io/?https://github.com/xx19941215/Xdatepicker/blob/master/index.html)
 
 类似的日期选择插件实现难点如下
 
