@@ -149,7 +149,7 @@ DatePicker.prototype = {
   getPreMonth:function(date){
     var year = date.getFullYear();
     var month = date.getMonth()-1;
-    if(month == 0){
+    if(month == -1){
       year--;
       month = 11;
     }
